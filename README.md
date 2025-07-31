@@ -2,5 +2,7 @@
 
 ## Setup conda environment
 ```bash
-conda env create -f environment.yml
+conda create -n gnn-test python=3.10 -y
+conda activate gnn-test
+pip install -r requirements.txt
 ```
