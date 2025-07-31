@@ -2,4 +2,4 @@ numpy
 pandas
 matplotlib
 seaborn
-torch
+torch==2.1.2
