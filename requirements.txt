@@ -3,3 +3,4 @@ pandas
 matplotlib
 seaborn
 torch==2.1.2
+scikit-learn
